@@ -1,4 +1,4 @@
-# TP Integrador - Entrega parcial hasta el punto 4
+# TP Integrador - Entrega completa hasta el punto 6
 
 ## Integrantes
 
